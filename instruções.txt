@@ -1,0 +1,12 @@
+
+***************************************************************************************
+Primeiro, No banco de dados Mysql importe o arquivo "estoque.sql" na pasta SQL;
+
+Segundo, execute o arquivo "index.php" no servidor;
+
+as credenciais de acesso ao sistema são: 
+	adm	
+	adm
+
+
+***************************************************************************************
